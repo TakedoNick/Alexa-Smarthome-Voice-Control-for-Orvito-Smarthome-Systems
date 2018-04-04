@@ -1,0 +1,10 @@
+Lights
+Fans
+Air Conditioner
+Refrigerator
+A/C
+White Strip
+Curtain Up
+Curtain Down
+Focus Light
+Dimmable Led

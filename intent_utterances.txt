@@ -1,0 +1,2 @@
+AskOrvito turn {cmdvalue} the {nodename} in {groupname}
+AskOrvito switch {cmdvalue} the {nodename} in {groupname}

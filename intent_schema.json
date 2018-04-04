@@ -1,0 +1,33 @@
+{
+    "intents": [
+        {
+            "intent": "AskOrvito",
+            "slots": [
+                {
+                    "name": "cmdvalue",
+                    "type": "LIST_OF_COMMANDS"
+                },
+                {
+                    "name": "nodename",
+                    "type": "LIST_OF_NODES"
+                },
+                {
+                    "name": "groupname",
+                    "type": "LIST_OF_GROUPS"
+                }
+            ]
+        },
+
+        {
+            "intent": "AMAZON.HelpIntent"
+        },
+
+        {
+            "intent": "AMAZON.StopIntent"
+        },
+
+        {
+            "intent": "AMAZON.CancelIntent"
+        }
+    ]
+}
